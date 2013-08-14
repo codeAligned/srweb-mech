@@ -1,0 +1,32 @@
+//TITLE:	Mechanics
+//DESCRIPTION:	Mechanics documentation home page
+//KEYWORDS:	
+//CONTENT_TYPE:	markdown
+
+Designing and building your robot
+=================================
+
+Robot design is a complicated task. These four overviews will tell you about
+the important points to keep in mind when designing and building your robot.
+
+* [Tools](/docs/mechanics/tools)
+* [Materials and parts](/docs/mechanics/materials)
+* [Joints and connections](/docs/mechanics/joints)
+* [Design considerations](/docs/mechanics/design%20considerations)
+
+In addition to these, we have also developed short "how to"-style documents to
+explain specific topics we find teams sometimes have difficulty with. These are
+linked to in the overviews above.
+
+Robot base designs
+==================
+
+In order to help teams get started with their robot faster, we have documented
+three sample designs for different styles of robot base. These do not have to
+be used - we always welcome innovative designs - but reading them can
+help you to understand some of the decisions you will need to make when
+designing your robot, and as such they are recommended for all teams, even
+those with no intention of building to these designs.
+
+These designs are documented in
+[the tutorial section](/docs/tutorials/robot%20bases).

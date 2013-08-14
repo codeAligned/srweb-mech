@@ -1,0 +1,118 @@
+//TITLE:	Anne de Breuil
+//DESCRIPTION:	A robot base design.
+//KEYWORDS:	
+//CONTENT_TYPE:	markdown
+
+Anne de Breuil
+==============
+
+Anne de Breuil is a small, octagonal prism-shaped robot, with drive wheels on the left and right and ball castors on the front and rear. It has two flat levels onto which kit can be mounted.
+
+The design as written requires a couple of slightly less common tools, but it's possible to do without (albeit less neatly). Therefore, ensure you read through the entire document before you start building to verify you have the required tools or replacements.
+
+Materials required
+------------------
+
+* Insert
+* Materials
+* Here
+
+Tools required
+--------------
+
+* Insert
+* Tools
+* Here
+
+Construction
+------------
+
+(Still WIP)
+
+1.  Secure the wood on a workbench
+   
+    [![Wood on a workbench](/images/content/tutorials/robot_bases/0.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/0.jpg)
+
+2.  Cut the wood at 36cm along, to make a strip 36cm wide. We used a handheld circular saw, but any [saw suitable for cutting wood](/docs/mechanics/tools/saws) will work. If using a circular saw, clamp on a smaller piece of wood in the right place that you can push the saw up against.
+
+    A [set square](/docs/mechanics/tools/essentials) is useful for measuring the offset of the saw blade from the guard and ensuring the small plank of wood (shown in this picture) is clamped on straight in the right place.
+
+    [![Wood being cut with a handheld circular saw](/images/content/tutorials/robot_bases/7.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/7.jpg)
+
+3.  Repeat for the other dimension, to make a 36x36cm square of wood.
+
+    [![Wood being cut again](/images/content/tutorials/robot_bases/8.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/8.jpg)
+
+4.  Draw a line from the centre of the left edge to the centre of the right edge, and another from the centre of the top edge to the centre of the bottom edge, to help in measurements.
+
+    [![Wood with guide lines on](/images/content/tutorials/robot_bases/10.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/10.jpg)
+
+5.  For each corner, make a mark 7.5cm from the centre line on either side of the corner, then draw a line between these two marks.
+
+    [![Wood with ruler measuring corner to chop off](/images/content/tutorials/robot_bases/11.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/11.jpg)
+    [![Wood with corner line drawn](/images/content/tutorials/robot_bases/15.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/15.jpg)
+
+6.  At each corner of each line just drawn, draw out a 2cmx2cm square as shown in the image.
+
+    [![Wood with squares marked close-up](/images/content/tutorials/robot_bases/17.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/17.jpg)
+    [![Wood with squares marked](/images/content/tutorials/robot_bases/27.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/27.jpg)
+
+7.  Clamp securely to a workbench.
+
+    [![Wood clamped to a workbench](/images/content/tutorials/robot_bases/44.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/44.jpg)
+
+8.  Using a hand saw, cut each corner off just short of the line.
+
+    [![Wood being sawed](/images/content/tutorials/robot_bases/58.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/58.jpg)
+
+9.  Use sandpaper to remove the remainder of the wood right up to the line.
+
+    [![Wood being sanded](/images/content/tutorials/robot_bases/66.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/66.jpg)
+
+10. Repeat all these steps, to make a second identical piece of wood.
+
+    [![Wood has been cloned](/images/content/tutorials/robot_bases/77.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/77.jpg)
+
+11. Choose where you wish motor boards to be mounted, remembering to leave space for the motors and castors. We recommend making the holes for the bottom set of screws of the motor board 8cm from the bottom edge, with the left edge of the board itself flush against the centre line, as in the image. Use a pencil to mark out the place for the holes, preferably drawing a cross.
+
+    <div class="warning">TODO: Replace this image/step for MCv4</div>
+    [![Where we chose to mount our motor boards](/images/content/tutorials/robot_bases/86.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/86.jpg)
+
+12. For each hole, use a centre punch to make a small groove, to make it easier to drill.
+
+    [![Centre punch](/images/content/tutorials/robot_bases/81.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/81.jpg)
+
+13. Drill the holes. On the bottom of the board (the side without the markings), make the hole wider for a few mm, enough to fit a nut. This is not necessary if you have longer bolts.
+
+14. Use a bolt of thickness around 3-4 mm. Place two washers per hole on the top side (to raise the motor board case off the wood to prevent it cracking), place the board on top of the washers carefully, and then put the bolt and nut in for each hole and screw it on. This board will be the base board; the other will be the top layer.
+
+15. Repeat for the power board on the top layer board (we mount it roughly in the centre).
+
+16. Cut the small plank of wood into 4 8cm lengths. Cut each one in half across the length, making eight 2x2x8cm strips.
+
+    [![Supports being made](/images/content/tutorials/robot_bases/92.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/92.jpg)
+    [![Supports being made](/images/content/tutorials/robot_bases/93.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/93.jpg)
+
+17. Use a stanley knife, chisel and a file to remove the squares that were previously marked up on both boards. Only remove one "layer" of wood, to make pits for the supports to rest in.
+
+    [![Support pits](/images/content/tutorials/robot_bases/114.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/114.jpg)
+    [![Support pits](/images/content/tutorials/robot_bases/111.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/111.jpg)
+    [![Support pits](/images/content/tutorials/robot_bases/112.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/112.jpg)
+
+18. Approximately 4cm from two opposite edges, use a 4cm hole saw drill bit (pictured) to make holes for the ball castors on the base board. If you don't have hole saw bits, a wood spade bit will probably do (but be less neat). Make a similar hole somewhere on the top layer board to pass cables through.
+
+    [![Sawtooth bit](/images/content/tutorials/robot_bases/105.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/105.jpg)
+    [![Holes](/images/content/tutorials/robot_bases/102.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/102.jpg)
+
+19. Mark and drill holes for the ball castor screws. Insert the self-tapping screws.
+
+    [![Screw hole marking for ball castors](/images/content/tutorials/robot_bases/108.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/108.jpg)
+    [![Screws inserted](/images/content/tutorials/robot_bases/108.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/109.jpg)
+
+20. Mark and drill holes in the centre of each of the square pits (on the other side of the board to the actual pit). Countersink for added neatness and to make the most of the screw.
+
+    [![Centre punching hole](/images/content/tutorials/robot_bases/122.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/122.jpg)
+
+21. Attach both halves of the robot together by screwing into the pillars.
+
+22. Mount the motors (TODO: Expand/get photos).

@@ -10,3 +10,12 @@ We've written a [walkthrough](/docs/tutorials/walkthrough) to guide you through 
 
 1. [(The Walkthrough)](/docs/tutorials/walkthrough) &mdash; you should start here
 2. [Basic Motor Control](/docs/tutorials/basic_motor_control) &mdash; all you need to know to get your motors moving
+
+[Robot bases](/docs/tutorials/robot%20bases)
+--------------------------------------------
+
+We have written tutorials on how to build three different robot bases. They do not have to be followed, but they provide a useful starting point onto which to build, and also help explain design decisions that need to be made in the designing of a robot base.
+
+1. [Anne de Breuil](/docs/tutorials/robot%20bases/Anne_de_Breuil)
+2. [Lady Clarick](/docs/tutorials/robot%20bases/Lady_Clarick)
+3. [Charlotte Backson](/docs/tutorials/robot%20bases/Charlotte_Backson)

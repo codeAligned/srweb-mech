@@ -1,0 +1,59 @@
+//TITLE:	Drill bits
+//DESCRIPTION:	Mechanics documentation - Drill bits
+//KEYWORDS:	
+//CONTENT_TYPE:	markdown
+
+Drill bits
+==========
+Drill bits are cutting tools that fit into the end of a drill and are generally
+used to make holes in things. There are quite a few types of drill bits you
+might want to be aware of.
+
+Twist drill bit
+---------------
+This is the most common type of drill bit, and what people normally think of
+when they think of drill bits.
+
+Commonly-available twist drill bits have geometry that is suitable for most
+materials you're likely to want to drill thorough, but not specifically
+optimised for any of them.
+
+[![Twist drill bit](/images/content/mech_doc/75px-Titanium_nitride_coating.jpg)](https://en.wikipedia.org/wiki/File:Titanium_nitride_coating.jpg)
+
+These drill bits tend to wander unless a groove for them to rest in is already
+defined - for this purpose, a centre punch may be used.
+
+A lip and spur drill bit is a variation of a twist bit more suitable for
+drilling wood. It helps prevent the drill bit from wandering without having to
+use a centre punch. It visually looks similar to a twist bit but has a clear
+spike on the end.
+
+Hole saw
+--------
+This is a drill bit used to make larger holes in most material that isn't too
+thick. It consists of saw teeth around a ring to cut the large hole, and a
+pilot twist drill bit in the centre to keep the drill bit steady.
+
+[![Hole saw](/images/content/mech_doc/250px-Drill_arbor_holesaw_2.jpg)](https://en.wikipedia.org/wiki/File:Drill_arbor_holesaw_2.jpg)
+
+Its advantage over twist and wood spade drill bits (below) is that it needs to
+cut only around the edge of the hole, making it a lot faster and neater for
+larger holes, and holes at sizes which would be impossible to do at all with
+wood spade or twist drill bits.
+
+However, the depth of the hole is limited to the physical depth of the
+cylinder.
+
+Wood spade drill bit
+--------------------
+This is a drill bit more common than hole saw and also used to cut larger
+holes, but specifically in wood. It is more commonly-found than a hole saw.
+They are flat with a point in the centre and cutting edges on either side.
+
+[![Wood spade drill bits](/images/content/mech_doc/320px-Spade_bits.JPG)](https://en.wikipedia.org/wiki/File:Spade_bits.JPG)
+
+However, unlike hole saws, these drill bits must cut all the material, and so
+take longer and require more power for larger holes. Past a certain size this
+makes them essentially unusable, so these are not commonly available for as
+large hole sizes as hole saws. They also very frequently cause splintering so
+are not suitable if a completely clean cut is required.

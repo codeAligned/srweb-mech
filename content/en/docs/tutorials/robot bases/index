@@ -1,0 +1,13 @@
+//TITLE:	Robot bases
+//DESCRIPTION:	A range of sample robot base designs.
+//KEYWORDS:	
+//CONTENT_TYPE:	markdown
+
+Robot bases
+===========
+
+We have written tutorials on how to build three different robot bases. They do not have to be followed, but they provide a useful starting point onto which to build, and also help explain design decisions that need to be made in the designing of a robot base.
+
+1. [Anne de Breuil](/docs/tutorials/robot%20bases/Anne_de_Breuil) - A small robot with two motors in the middle and castors on the ends. It is an octagonal prism in shape, with two flat levels on which to mount kit.
+2. [Lady Clarick](/docs/tutorials/robot%20bases/Lady_Clarick) - A large robot with two motors at the rear and two castors at the front. It is roughly cuboid in shape, with two flat levels on which to mount kit.
+3. [Charlotte Backson](/docs/tutorials/robot%20bases/Charlotte_Backson) - A small robot with four wheel drive and a significant level of insanity - A small robot with four wheel drive and a significant level of insanity.

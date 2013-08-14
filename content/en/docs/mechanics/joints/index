@@ -1,0 +1,15 @@
+//TITLE:	Joints and connections
+//DESCRIPTION:	Mechanics documentation - Joints and connections
+//KEYWORDS:	
+//CONTENT_TYPE:	markdown
+
+Joints and connections
+=====
+
+* [Joints that move or pivot](/docs/mechanics/joints/moving_and_pivoting)
+* [Keeping joints rigid](/docs/mechanics/joints/rigid)
+* [Cross bracing](/docs/mechanics/joints/cross_bracing)
+* [Angular forces](/docs/mechanics/joints/angular_forces)
+* [Appropriate materials](/docs/mechanics/joints/appropriate_materials)
+* [Mounting motors](/docs/mechanics/joints/motors)
+* [Attaching wheels](/docs/mechanics/joints/wheels)
