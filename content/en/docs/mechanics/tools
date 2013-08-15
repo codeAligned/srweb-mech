@@ -1,16 +1,24 @@
-//TITLE:	Drill bits
-//DESCRIPTION:	Mechanics documentation - Drill bits
-//KEYWORDS:	
-//CONTENT_TYPE:	markdown
+//TITLE:  Tools
+//DESCRIPTION:  Mechanics documentation - Tools
+//KEYWORDS: 
+//CONTENT_TYPE: markdown
+
+Tools
+=====
+
+Essentials
+----------
+
+Drills
+------
 
 Drill bits
-==========
+----------
 Drill bits are cutting tools that fit into the end of a drill and are generally
 used to make holes in things. There are quite a few types of drill bits you
 might want to be aware of.
 
-Twist drill bit
----------------
+### Twist drill bit ###
 This is the most common type of drill bit, and what people normally think of
 when they think of drill bits.
 
@@ -28,8 +36,7 @@ drilling wood. It helps prevent the drill bit from wandering without having to
 use a centre punch. It visually looks similar to a twist bit but has a clear
 spike on the end.
 
-Hole saw
---------
+### Hole saw ###
 This is a drill bit used to make larger holes in most material that isn't too
 thick. It consists of saw teeth around a ring to cut the large hole, and a
 pilot twist drill bit in the centre to keep the drill bit steady.
@@ -44,8 +51,7 @@ wood spade or twist drill bits.
 However, the depth of the hole is limited to the physical depth of the
 cylinder.
 
-Wood spade drill bit
---------------------
+### Wood spade drill bit ###
 This is a drill bit more common than hole saw and also used to cut larger
 holes, but specifically in wood. It is more commonly-found than a hole saw.
 They are flat with a point in the centre and cutting edges on either side.
@@ -57,3 +63,27 @@ take longer and require more power for larger holes. Past a certain size this
 makes them essentially unusable, so these are not commonly available for as
 large hole sizes as hole saws. They also very frequently cause splintering so
 are not suitable if a completely clean cut is required.
+
+Saws
+----
+
+Knives
+------
+
+Chisels
+-------
+A chisel is used to cut or carve materials, usually wood. A chisel is forced
+into the material using a hammer or mallet.
+
+[![Chisel](/images/content/mech_doc/Chisel.jpeg)](https://en.wikipedia.org/wiki/File:Chisel.jpeg)
+
+Chisels are useful for cutting sections out of wood to make indented sections.
+
+Aside from generic woodworking chisels, there are many types available for much
+more specialised uses.
+
+Sandpaper and files
+-------------------
+
+Dremel and router
+-----------------
