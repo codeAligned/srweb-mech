@@ -12,11 +12,7 @@ the important points to keep in mind when designing and building your robot.
 * [Tools](/docs/mechanics/tools)
 * [Materials and parts](/docs/mechanics/materials)
 * [Joints and connections](/docs/mechanics/joints)
-* [Design considerations](/docs/mechanics/design%20considerations)
-
-In addition to these, we have also developed short "how to"-style documents to
-explain specific topics we find teams sometimes have difficulty with. These are
-linked to in the overviews above.
+* [Design considerations](/docs/mechanics/design_considerations)
 
 Robot base designs
 ==================
