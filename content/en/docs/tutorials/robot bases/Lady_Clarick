@@ -1,0 +1,105 @@
+//TITLE:	Lady Clarick
+//DESCRIPTION:	A robot base design.
+//KEYWORDS:	
+//CONTENT_TYPE:	markdown
+
+Lady Clarick
+============
+
+Lady Clarick is a small, octagonal prism-shaped robot, with drive wheels on the left and right and ball castors on the front and rear. It has two flat levels onto which kit can be mounted.
+
+The design as written does not require any unusual tools. However, you should read through the entire document before you start building to verify you have the required tools or replacements.
+
+Materials required
+------------------
+
+* Insert
+* Materials
+* Here
+
+Tools required
+--------------
+
+* Insert
+* Tools
+* Here
+
+Construction
+------------
+
+(Still WIP)
+
+1.  Secure the wood on a workbench
+   
+    [![Wood on a workbench](/images/content/tutorials/robot_bases/0.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/0.jpg)
+
+2.  Cut the wood at 40cm along, to make a strip 40cm wide. We used a handheld circular saw, but any [saw suitable for cutting wood](/docs/mechanics/tools) will work. If using a circular saw, clamp on a smaller piece of wood in the right place that you can push the saw up against.
+
+    A [set square](/docs/mechanics/tools) is useful for measuring the offset of the saw blade from the guard and ensuring the small plank of wood (shown in this picture) is clamped on straight in the right place.
+
+    [![Wood being cut with a handheld circular saw](/images/content/tutorials/robot_bases/7.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/7.jpg)
+
+3.  Repeat for the other dimension, to make a 40x40cm square of wood.
+
+    [![Wood being cut again](/images/content/tutorials/robot_bases/8.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/8.jpg)
+
+4.  Draw two lines each spanning the length of the wood, 10cm from either edge. Between these two lines, draw two lines perpendicular to the two you just drew, one 10cm from an edge and one 15cm from the same edge. Finally, on the line 10cm from the edge, mark the points on either side of the line that are 5cm from the touching lines. See the photo.
+
+    [![Wood with guide lines on](/images/content/tutorials/robot_bases/30.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/30.jpg)
+
+5.  Repeat these steps two more times, making three 40x40cm pieces of wood marked in the same way.
+
+6.  On one of the pieces, on the opposite edge to the two short lines and between and parallel to the two long lines, draw a short line in the centre of the wood. Draw a line either side of this line, 1.25cm away, making two lines 2.5cm apart. On these two lines, mark at points 1cm and 4cm from the edge. This is for the castor wheel which you should use as a guide
+
+    [![Wood with castor line](/images/content/tutorials/robot_bases/31.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/31.jpg)
+    [![Wood with castor](/images/content/tutorials/robot_bases/35.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/35.jpg)
+
+7.  On every piece of wood, use a compass placed in the mark to draw two arcs as shown.
+
+    [![Wood with compassonhand](/images/content/tutorials/robot_bases/39.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/39.jpg)
+    [![Wood with arcs drawn](/images/content/tutorials/robot_bases/41.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/41.jpg)
+
+8.  Cut out the sections as shown on each piece of wood, using some form of saw (jigsaw?).
+
+    [![Wood with section cut out](/images/content/tutorials/robot_bases/124.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/124.jpg)
+
+9.  Mark out where you want to mount your boards. This will involve getting the measurements of the board's mounting holes from the docs (or by measuring them), and drawing suitable lines with the relevant marks on.
+
+    [![Wood being sawed](/images/content/tutorials/robot_bases/37.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/37.jpg)
+
+10. For each hole, use a centre punch to make a small groove, to make it easier to drill.
+
+    [![Centre punch](/images/content/tutorials/robot_bases/81.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/81.jpg)
+
+11. Drill the holes. On the bottom of the board (the side without the markings), make the hole wider for a few mm, enough to fit a nut. This is not necessary if you have longer bolts.
+
+12. Use a bolt of thickness around 3-4 mm. Place two washers per hole on the top side (to raise the board case off the wood to prevent it cracking), place the board on top of the washers carefully, and then put the bolt and nut in for each hole and screw it on.
+
+13. Repeat for any other boards you wish to mount. You may wish to perform the actual board mounting later to make it easier to build the rest of the robot.
+
+14. Screw in the castor wheel with self-tapping screws. It might require making small holes with a drill if you can't screw it in without them.
+
+15. Inn the top two boards, drill holes for cables. The largest cable you will need to fit will be the SRIC cables for the servo board and USB cables, so ensure they are big enough for these. You can use a wood spade drill bit to make them.
+
+16. Using a junior hacksaw, cut from your aluminium L-section 4 lengths of 40cm; and from the aluminium bar, 4 lengths of 45cm, and 2 lengths of 56cm.
+
+    [![Aluminium L-section being sawed](/images/content/tutorials/robot_bases/138.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/138.jpg)
+
+17. Drill holes at 1cm from each end of each piece of aluminium (including both sides on the L-section), and in the L-section only, also drill holes in the centre (again, on both sides).
+
+    [![L-section with holes](/images/content/tutorials/robot_bases/DSCN0670.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0670.JPG)
+
+18. Solder two purple wires onto each motor.
+
+19. Mark out where the motors need to be mounted. The motor mount should be flush with the side of the robot, and 1cm from the front. Use the motor mount alone to mark out the holes to drill, then drill holes, place the motor inside the motor mount, insert bolts and tighten with nuts.
+
+    [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0676.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0676.JPG)
+
+20. 1cm from each edge on the sides of each piece of wood, drill a small hole.
+
+21. On one board, attach the necessary aluminium as shown in these photos using a washer and self-tapping screw per hole. Then attach the other two boards to the aluminium.
+
+    [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0672.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0672.JPG)
+    [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0673.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0673.JPG)
+    [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0674.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0674.JPG)
+    [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0675.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0675.JPG)
