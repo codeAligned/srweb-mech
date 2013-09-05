@@ -1,0 +1,88 @@
+//TITLE:	Charlotte Backson
+//DESCRIPTION:	A robot base design.
+//KEYWORDS:	
+//CONTENT_TYPE:	markdown
+
+Charlotte Backson
+=================
+
+Charlotte Backson is a small four-wheel-drive robot. The wheels are mounted on bogies which are free to rotate separately from the base, which allows the robot to steer effectively.
+
+The design as written does not require any unusual tools. However, you should read through the entire document before you start building to verify you have the required tools or replacements.
+
+Materials required
+------------------
+
+* Insert
+* Materials
+* Here
+
+Tools required
+--------------
+
+* Insert
+* Tools
+* Here
+
+Construction
+------------
+
+(Still WIP)
+
+1.  Secure the wood on a workbench
+   
+    [![Wood on a workbench](/images/content/tutorials/robot_bases/0.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/0.jpg)
+
+2.  Cut the wood at 25cm along, to make a strip 25cm wide. We used a handheld circular saw, but any [saw suitable for cutting wood](/docs/mechanics/tools) will work. If using a circular saw, clamp on a smaller piece of wood in the right place that you can push the saw up against.
+
+    A [set square](/docs/mechanics/tools) is useful for measuring the offset of the saw blade from the guard and ensuring the small plank of wood (shown in this picture) is clamped on straight in the right place.
+
+    [![Wood being cut with a handheld circular saw](/images/content/tutorials/robot_bases/7.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/7.jpg)
+
+3.  Repeat for the other dimension of 39.5cm, to make a 25x39.5cm rectangle of wood.
+
+    [![Wood being cut again](/images/content/tutorials/robot_bases/8.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/8.jpg)
+
+4.  Cut two more pieces of wood, this time with  dimensions 8cmx34.5cm.
+
+    [![Three pieces of wood](/images/content/tutorials/robot_bases/144.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/144.jpg)
+
+5.  4cm from each short end and 12.5cm (ie halfway) from the long end on the large piece of wood, drill a hole large enough for the large to fit and rotate freely. Repeat for the other end.
+
+6.  On one side of the wood only, for both holes, drill a larger hole, wide enough to fit the washers for the bolt, through about one layer of the MDF - about 0.5cm deep. Repeat this for the centre of the small pieces of wood.
+
+    [![Main holes](/images/content/tutorials/robot_bases/DSCN0684.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0684.JPG)
+
+7.  Mark out where you want to mount your boards. This will involve getting the measurements of the board's mounting holes from the docs (or by measuring them), and drawing suitable lines with the relevant marks on.
+
+    [![Wood being sawed](/images/content/tutorials/robot_bases/37.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/37.jpg)
+
+8. For each hole, use a centre punch to make a small groove, to make it easier to drill.
+
+    [![Centre punch](/images/content/tutorials/robot_bases/81.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/81.jpg)
+
+9. Drill the holes. On the bottom of the board (the side without the markings), make the hole wider for a few mm, enough to fit a nut. This is not necessary if you have longer bolts.
+
+10. Use a bolt of thickness around 3-4 mm. Place two washers per hole on the top side (to raise the board case off the wood to prevent it cracking), place the board on top of the washers carefully, and then put the bolt and nut in for each hole and screw it on.
+
+11. Repeat for any other boards you wish to mount. You may wish to perform the actual board mounting later to make it easier to build the rest of the robot.
+
+12. In the centres of each short edge of each small piece of wood, mark out holes for the motor mount. We only used four of them (about 1cm and 4cm away from the short edge and about 3cm away from the long edges), but more can be used if necessary. Drill the holes, again making a wider hole in the top (the same side as the wider hole for the large nut) for a nut.
+
+13. Bolt on the four motor mounts.
+
+14. Solder purple wires onto the motor contacts.
+
+15. Place the motors in the mounts and screw in all six bolts that came with the motor on the front of the housing.
+
+16. Place the hubs on the axles. Ensure the grub screw lines up with the flat on the motor axle, and screw it in with an allen key.
+
+17. Place the wheels on the axles, and screw them into the hubs with the two allen bolts.
+
+18. Place a washer onto each hole on the large piece of wood, on the side without the enlangement. Insert the two large bolts into this side. On the other side of the wood, add another washer to eachand then loosely screw on a nut such that the bolts are still free to rotate.
+
+    [![Bolt through wood](/images/content/tutorials/robot_bases/DSCN0683.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0683.JPG)
+
+19. Add two more washers to each bolt. Place the small piece of wood on top, the side with the enlarged hole first. Add an additional washer, and finally tighten a nut on top. The small piece of wood should be free to rotate but the bolt should rotate with it.
+
+    [![Small wood attached](/images/content/tutorials/robot_bases/DSCN0685.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0685.JPG)
