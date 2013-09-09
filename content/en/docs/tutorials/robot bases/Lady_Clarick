@@ -79,7 +79,7 @@ Construction
 
 14. Screw in the castor wheel with self-tapping screws. It might require making small holes with a drill if you can't screw it in without them.
 
-15. Inn the top two boards, drill holes for cables. The largest cable you will need to fit will be the SRIC cables for the servo board and USB cables, so ensure they are big enough for these. You can use a wood spade drill bit to make them.
+15. In the top two boards, drill holes for cables. The largest cable you will need to fit will be the SRIC cables for the servo board and USB cables, so ensure they are big enough for these. You can use a wood spade drill bit to make them.
 
 16. Using a junior hacksaw, cut from your aluminium L-section 4 lengths of 40cm; and from the aluminium bar, 4 lengths of 45cm, and 2 lengths of 56cm.
 
@@ -91,13 +91,19 @@ Construction
 
 18. Solder two purple wires onto each motor.
 
-19. Mark out where the motors need to be mounted. The motor mount should be flush with the side of the robot, and 1cm from the front. Use the motor mount alone to mark out the holes to drill, then drill holes, place the motor inside the motor mount, insert bolts and tighten with nuts.
+19. Mark out where the motors need to be mounted. The motor mount should be flush with the side of the robot, and 1cm from the front. Use the motor mount alone to mark out the holes to drill, then drill holes.
+
+20. Place the hub on the motor shaft, with the grub screws aligned with the flat. Insert and tighten grub screws - you might consider using Loctite to ensure they don't come out or slip.
+
+21. Insert the motor into the mount, then bolt the whole assembly onto the robot.
 
     [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0676.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0676.JPG)
 
-20. 1cm from each edge on the sides of each piece of wood, drill a small hole.
+22. Attach wheels by putting them on the hubs and then attaching circlips.
 
-21. On one board, attach the necessary aluminium as shown in these photos using a washer and self-tapping screw per hole. Then attach the other two boards to the aluminium.
+23. 1cm from each edge on the sides of each piece of wood, drill a small hole.
+
+24. On one board, attach the necessary aluminium as shown in these photos using a washer and self-tapping screw per hole. Then attach the other two boards to the aluminium.
 
     [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0672.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0672.JPG)
     [![Motors mounted](/images/content/tutorials/robot_bases/DSCN0673.thumb.JPG)](/images/content/tutorials/robot_bases/DSCN0673.JPG)

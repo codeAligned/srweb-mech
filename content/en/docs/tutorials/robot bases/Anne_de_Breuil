@@ -113,6 +113,17 @@ Construction
 
     [![Centre punching hole](/images/content/tutorials/robot_bases/122.jpg.thumb.jpg)](/images/content/tutorials/robot_bases/122.jpg)
 
-21. Attach both halves of the robot together by screwing into the pillars.
+22. Solder two purple wires onto each motor.
 
-22. Mount the motors (TODO: Expand/get photos).
+23. Place the motor mounts on the board, flush with the end, in the centre of the two sides where there aren't castor wheels. Mark the holes.
+
+24. Drill the holes. Again, depending on which bolts you use, you might have to enlarge the hole on the bottom only to fit the nut.
+
+25. Place the hub on the motor shaft, with the grub screws aligned with the flat. Insert and tighten grub screws - you might consider using Loctite to ensure they don't come out or slip.
+
+26. Insert the motor into the mount, then bolt the whole assembly onto the robot.
+
+27. Attach wheels by putting them on the hubs and then attaching circlips.
+
+28. Attach both halves of the robot together by screwing into the pillars.
+
